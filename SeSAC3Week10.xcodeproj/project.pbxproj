@@ -23,6 +23,7 @@
 		D87A426F2ABB358700EDBDAC /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87A426E2ABB358700EDBDAC /* ViewModel.swift */; };
 		D87A42912ABC74BC00EDBDAC /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87A42902ABC74BC00EDBDAC /* SearchViewController.swift */; };
 		D87A42932ABC806800EDBDAC /* SearchCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87A42922ABC806800EDBDAC /* SearchCollectionViewCell.swift */; };
+		D87A42952ABD169B00EDBDAC /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87A42942ABD169B00EDBDAC /* Constant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		D87A426E2ABB358700EDBDAC /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		D87A42902ABC74BC00EDBDAC /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		D87A42922ABC806800EDBDAC /* SearchCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCollectionViewCell.swift; sourceTree = "<group>"; };
+		D87A42942ABD169B00EDBDAC /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				D87A426E2ABB358700EDBDAC /* ViewModel.swift */,
 				D87A42902ABC74BC00EDBDAC /* SearchViewController.swift */,
 				D87A42922ABC806800EDBDAC /* SearchCollectionViewCell.swift */,
+				D87A42942ABD169B00EDBDAC /* Constant.swift */,
 			);
 			path = SeSAC3Week10;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				D87A426D2ABB1BDA00EDBDAC /* Router.swift in Sources */,
 				D851F3CD2AB9D2C700081AD5 /* NetworkBasic.swift in Sources */,
 				D851F3AF2AB9CA1C00081AD5 /* AppDelegate.swift in Sources */,
+				D87A42952ABD169B00EDBDAC /* Constant.swift in Sources */,
 				D87A426F2ABB358700EDBDAC /* ViewModel.swift in Sources */,
 				D851F3B12AB9CA1C00081AD5 /* SceneDelegate.swift in Sources */,
 			);
