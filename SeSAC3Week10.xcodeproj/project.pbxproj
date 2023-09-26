@@ -24,6 +24,7 @@
 		D87A42912ABC74BC00EDBDAC /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87A42902ABC74BC00EDBDAC /* SearchViewController.swift */; };
 		D87A42932ABC806800EDBDAC /* SearchCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87A42922ABC806800EDBDAC /* SearchCollectionViewCell.swift */; };
 		D87A42952ABD169B00EDBDAC /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87A42942ABD169B00EDBDAC /* Constant.swift */; };
+		D87A42AB2AC2706700EDBDAC /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87A42AA2AC2706700EDBDAC /* Sample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		D87A42902ABC74BC00EDBDAC /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		D87A42922ABC806800EDBDAC /* SearchCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCollectionViewCell.swift; sourceTree = "<group>"; };
 		D87A42942ABD169B00EDBDAC /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		D87A42AA2AC2706700EDBDAC /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				D87A42902ABC74BC00EDBDAC /* SearchViewController.swift */,
 				D87A42922ABC806800EDBDAC /* SearchCollectionViewCell.swift */,
 				D87A42942ABD169B00EDBDAC /* Constant.swift */,
+				D87A42AA2AC2706700EDBDAC /* Sample.swift */,
 			);
 			path = SeSAC3Week10;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D851F3B32AB9CA1C00081AD5 /* ViewController.swift in Sources */,
+				D87A42AB2AC2706700EDBDAC /* Sample.swift in Sources */,
 				D851F3CF2AB9DE0700081AD5 /* UnsplashAPI.swift in Sources */,
 				D851F3D12AB9EB4C00081AD5 /* Network.swift in Sources */,
 				D87A42912ABC74BC00EDBDAC /* SearchViewController.swift in Sources */,
